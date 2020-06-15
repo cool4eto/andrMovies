@@ -1,0 +1,7 @@
+#Mon Jun 15 11:59:16 EEST 2020
+base.0=D\:\\upr6Movies\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\upr6Movies\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
